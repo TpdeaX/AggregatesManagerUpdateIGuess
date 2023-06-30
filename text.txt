@@ -1,3 +1,3 @@
 currentVersion: 3.8
 
-downloadeLink: }bit.ly/epicidad
+downloadeLink: epicidad
